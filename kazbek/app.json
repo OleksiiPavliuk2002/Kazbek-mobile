@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "kazbek",
+    "slug": "kazbek",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/kazbek-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "icon": "./assets/kazbek-icon.png"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker",
+      "expo-font"
+    ]
+  }
+}
